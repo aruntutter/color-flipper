@@ -17,6 +17,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   background-color: #ffffff;
+  overflow: hidden;
 }
 
 header {
@@ -78,30 +79,31 @@ header h1 {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
-.btn:active {
+#btn:active {
   transform: scale(0.95);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }
 
 /* Footer */
 footer {
-  /* font-size: 2rem; */
+  margin-bottom: 8px;
   position: absolute;
-  top: 93%;
+  bottom: 0;
   left: 50%;
-  transform: translate(-50%, -50)
+  transform: translateX(-50%);
 }
 
 a {
   font-size: 2rem;
   color: black;
   transition: transform 0.3s ease-in-out;
+    display: inline-block;
 }
 
 a:hover,
 a:focus {
   color: #555;
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 /* MEDIA QUERY */
