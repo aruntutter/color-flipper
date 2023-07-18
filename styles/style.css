@@ -58,7 +58,7 @@ header h1 {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
-.btn {
+#btn {
   display: inline-block;
   border-radius: 50px;
   padding: 0.5rem 1.5rem;
