@@ -23,7 +23,7 @@ Color Flipper is a web application that generates random hexadecimal color codes
 
 ## Screenshot
 
-![Screenshot](screenshots/screenshot.png)
+![Screenshot](./assets/images/color-flipper-ss.png)
 
 ## Demo
 
@@ -47,7 +47,7 @@ The Color Flipper project is built using the following technologies:
 
 To use the Color Flipper application:
 
-1. Open the live demo link [here](https://your-project-live-demo-url.com).
+1. Open the live demo link [here](https://dazzling-cucurucho-ab2f16.netlify.app/).
 2. Click the "Generate New Color" button to generate a random color.
 3. The background color of the page will change to the generated color, and the hexadecimal color code will be displayed below.
 
