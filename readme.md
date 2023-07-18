@@ -23,7 +23,7 @@ Color Flipper is a web application that generates random hexadecimal color codes
 
 ## Screenshot
 
-![Screenshot](./assets/images/color-flipper-ss.png)
+![Screenshot](./assets/images/color-flipper.ss.png)
 
 ## Demo
 
@@ -41,6 +41,7 @@ The Color Flipper project is built using the following technologies:
 
 - HTML
 - CSS
+- Media Query
 - JavaScript
 
 ## Usage
@@ -59,6 +60,7 @@ While working on the Color Flipper project, I gained knowledge and experience in
 - Generating random numbers and selecting random elements from an array
 - Updating CSS styles dynamically
 - Event handling and listening for user interactions
+- Implementing responsive design with media queries to ensure proper display on different screen sizes
 
 ## Contributing
 
