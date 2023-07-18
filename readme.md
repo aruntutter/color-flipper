@@ -71,5 +71,3 @@ Contributions to the Color Flipper project are welcome! If you find any bugs, ha
 5. Submit a pull request detailing your changes.
 
 Thank you for considering contributing to this project!
-
-Feel free to customize the README further to include additional information or sections specific to your Color Flipper project.
