@@ -83,6 +83,27 @@ header h1 {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }
 
+/* Footer */
+footer {
+  /* font-size: 2rem; */
+  position: absolute;
+  top: 93%;
+  left: 50%;
+  transform: translate(-50%, -50)
+}
+
+a {
+  font-size: 2rem;
+  color: black;
+  transition: transform 0.3s ease-in-out;
+}
+
+a:hover,
+a:focus {
+  color: #555;
+  transform: scale(1.1);
+}
+
 /* MEDIA QUERY */
 /* Media Query for screens smaller than 425px */
 @media only screen and (max-width: 425px) {
